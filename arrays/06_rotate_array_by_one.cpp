@@ -1,3 +1,4 @@
+//rotate array by one
 #include <iostream>
 #include <vector>
 using namespace std;
