@@ -1,3 +1,4 @@
+//rotate array by k places
 #include <iostream>
 #include <vector>
 #include <algorithm>  // for reverse
