@@ -13,7 +13,7 @@ class Solution {
             int mid = low + (high - low) / 2;
 
             if (arr[mid] <= x) {
-                ans = mid;        //may or may not be an answer
+                ans = mid;        //mpotential answer
                 low = mid + 1;    // Try to find a bigger one
             } else {
                 high = mid - 1;
