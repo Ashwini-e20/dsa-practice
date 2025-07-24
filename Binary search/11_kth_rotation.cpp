@@ -1,3 +1,4 @@
+//number of times the array is rotated
 #include <iostream>
 #include <vector>
 using namespace std;
