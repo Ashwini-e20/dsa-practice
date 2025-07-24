@@ -1,3 +1,4 @@
+//check if the array is soretd and rotated
 #include <iostream>
 using namespace std;
 
